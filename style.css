@@ -84,7 +84,10 @@ video {
   text-align: center;
   margin: 10px 10px 0px 10px;
 }
-
+img {
+  max-width: 60%;
+  height: auto;
+}
 .equation h1{
   display: inline;
   padding: 20px;
