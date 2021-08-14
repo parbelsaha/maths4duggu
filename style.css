@@ -58,6 +58,16 @@ nav a{
   display: block;
 }
 
+video {  
+  width: 100vw;
+  height: 100vh;
+  object-fit: cover;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}
+
 .wrapper{
   display: grid;
   grid-template-columns: 82% 18%;
